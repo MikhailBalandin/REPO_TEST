@@ -1,5 +1,6 @@
-# web cam example docker sqlite
+# web cam example docker sqlite .jpeg to .png
 web cam python docker conf file for ubuntu16 and TF 1.14 and sqlite
 https://github.com/Antu7/webcam-face-detection-with-image-capture/blob/master/webcam.py
 https://towardsdatascience.com/how-to-compile-tensorflow-1-12-on-ubuntu-16-04-using-docker-6ca2d60d7567
 https://python-scripts.com/sqlite
+https://medium.com/@ajeetham/image-type-conversion-jpg-png-jpg-webp-png-webp-with-python-7d5df09394c9
