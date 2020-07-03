@@ -5,6 +5,9 @@ https://github.com/Antu7/webcam-face-detection-with-image-capture/blob/master/we
 
 https://github.com/Antu7/webcam-face-detection-with-image-capture
 
+
+https://imageio.readthedocs.io/en/stable/examples.html
+
 https://towardsdatascience.com/how-to-compile-tensorflow-1-12-on-ubuntu-16-04-using-docker-6ca2d60d7567
 
 https://python-scripts.com/sqlite
