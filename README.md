@@ -21,3 +21,6 @@ https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-pytho
 https://gis.stackexchange.com/questions/1159/how-can-i-plot-gps-coordinates-on-google-map
 
 https://proglib.io/p/python-web-map/
+
+
+https://yandex.ru/turbo/s/novainfo.ru/article/13853
