@@ -16,3 +16,6 @@ https://m.habr.com/ru/post/102463/
 http://code.activestate.com/recipes/180801-convert-image-format/
 
 https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
+
+
+https://gis.stackexchange.com/questions/1159/how-can-i-plot-gps-coordinates-on-google-map
