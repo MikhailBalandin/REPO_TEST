@@ -24,3 +24,5 @@ https://proglib.io/p/python-web-map/
 
 
 https://yandex.ru/turbo/s/novainfo.ru/article/13853
+
+https://api.2gis.ru/doc/maps/ru/quickstart/
