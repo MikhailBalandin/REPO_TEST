@@ -14,3 +14,5 @@ https://webonrails.ru/post/77708239306759138/
 https://m.habr.com/ru/post/102463/
 
 http://code.activestate.com/recipes/180801-convert-image-format/
+
+https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db
