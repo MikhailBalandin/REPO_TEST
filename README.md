@@ -12,3 +12,5 @@ https://python-scripts.com/sqlite
 https://medium.com/@ajeetham/image-type-conversion-jpg-png-jpg-webp-png-webp-with-python-7d5df09394c9
 https://webonrails.ru/post/77708239306759138/
 https://m.habr.com/ru/post/102463/
+
+http://code.activestate.com/recipes/180801-convert-image-format/
