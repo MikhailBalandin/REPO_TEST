@@ -34,3 +34,5 @@ https://api.2gis.ru/doc/maps/ru/quickstart/
 https://tech.yandex.ru/maps/
 
 https://www.sqlite.org/index.html
+
+https://python-2gis.readthedocs.io/en/latest/
