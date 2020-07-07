@@ -38,3 +38,5 @@ https://www.sqlite.org/index.html
 https://python-2gis.readthedocs.io/en/latest/
 
 https://www.openstreetmap.org/export#map=5/46.935/-0.417
+
+https://medium.com/@abuqassim115/thanks-for-your-response-frank-fb869824ede2
