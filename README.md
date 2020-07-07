@@ -36,3 +36,5 @@ https://tech.yandex.ru/maps/
 https://www.sqlite.org/index.html
 
 https://python-2gis.readthedocs.io/en/latest/
+
+https://www.openstreetmap.org/export#map=5/46.935/-0.417
